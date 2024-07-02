@@ -10,3 +10,13 @@ The Obsidian Nothing Theme is inspired by the distinctive visual identity of the
 ![alt text](screenshot-1.png)
 ![alt text](screenshot-2.png)
 ![alt text](screenshot-3.png)
+
+# Installation
+
+To install, just download this repository, add it to a folder called "Nothing" and add them to the following path:
+
+```
+yourVault/.obsidian/themes
+```
+
+-   The only needed files are manifest.json and theme.css, you can delete the other ones.
